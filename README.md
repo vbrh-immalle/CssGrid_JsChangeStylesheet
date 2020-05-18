@@ -1,0 +1,1 @@
+Dit is een demo v.d. CSS grid layout en toont een mogelijkheid om client-side (met Javascript) van CSS te veranderen.
